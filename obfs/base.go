@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/zu1k/gossr/ssr"
+	"github.com/yuche/gossr/ssr"
 )
 
 type creator func() IObfs

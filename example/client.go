@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/zu1k/gossr"
-	"github.com/zu1k/gossr/tools/leakybuf"
-	"github.com/zu1k/gossr/tools/socks"
+	"github.com/yuche/gossr/tools/leakybuf"
+	"github.com/yuche/gossr/tools/socks"
 )
 
 var (
